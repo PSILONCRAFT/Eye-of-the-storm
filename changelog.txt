@@ -27,7 +27,12 @@
       §4- Libloader 
 	
 
-§2 Betabuild 1.1.1 renamed to Eye of the storm 21.01.2018
+§2 Betabuild 1.1.1 renamed to Eye of the storm  Date 21.01.2018
 	- Finished custom main menu with graphics.
 	- Added Custom Main Menu Mod
 	- Added resources loader mod
+	- Added custom moon phase textures
+
+§2 Betabuild 1.1.1 date 22.01.18
+	- Tweaked the primalcore config file
+	-§4 need to fix the flaked flint part to make an flint axe
