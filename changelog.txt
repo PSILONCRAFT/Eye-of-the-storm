@@ -1,0 +1,33 @@
+§e# Welcome to PSILONCRAFTET EYE OF THE STORM
+
+§2 Beta build 1.1.0 date 17.01.2018 Working
+	- Testserver up and running
+	- Levelseed 1081198569
+	- TIP hold shift when pointing on a storage like a chest!
+	- Keep an eye on the sky. Clouds are assembling over you
+	§4- TODO Finnish quest chapter 1
+
+§2 Beta build 1.1.1 date 18.01.2018 Working
+	- added skill requirements for thefolowing mods
+	- Actuallyadditions
+	- Extrautils2
+	- Chisel
+	- Chisel&bits
+	§3 Custom recipe for vanilla tools. requires previous tier to craft
+
+	§4-required skill lvl for tconstruct not working (bug)
+
+§2 Beta build 1.1.1 date 19.01.2018
+	Added the following mods
+	- Tickprofiler
+	- NetherEx
+	- PrimalCore
+	- EnhancedVisuals
+	- AmbientSounds
+      §4- Libloader 
+	
+
+§2 Betabuild 1.1.1 renamed to Eye of the storm 21.01.2018
+	- Finished custom main menu with graphics.
+	- Added Custom Main Menu Mod
+	- Added resources loader mod
